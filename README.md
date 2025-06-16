@@ -104,7 +104,7 @@ Find your device manually:
 ls /dev/cu.*
 
 # Find MEATPI devices specifically
-ls /dev/cu.*wchusbserial*
+ls -la ~/meatpi-devices/
 ```
 
 ### Cleanup
