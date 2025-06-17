@@ -1,4 +1,5 @@
-# Unofficial MeatPi Ollie V2 - macOS CAN Interface
+# `CANtools`
+### SocketCAN for the rest of us... 
 
 <img src="https://github.com/slimelec/ollie-hw/blob/master/images/mpi_logo.png" width=300>
 
