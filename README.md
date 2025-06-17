@@ -1,5 +1,5 @@
 # `CANtools`
-### SocketCAN for the rest of us... 
+### A SocketCAN for macOS 
 
 <img src="https://github.com/slimelec/ollie-hw/blob/master/images/mpi_logo.png" width=300>
 
