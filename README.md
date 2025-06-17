@@ -30,7 +30,7 @@ A comprehensive CAN bus interface tool for macOS that provides all the functiona
 - **Live monitoring dashboard**
 - **Automatic device detection** and symlink creation
 - **Multiple UART interfaces** (RS232, RS485, UART A/B)
-- **Professional CAN analysis tools**
+- **CAN analysis tools**
 
 ## Hardware Overview
 
